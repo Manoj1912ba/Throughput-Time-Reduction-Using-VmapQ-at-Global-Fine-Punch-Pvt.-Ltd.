@@ -1,0 +1,2 @@
+# Throughput-Time-Reduction-Using-VmapQ-at-Global-Fine-Punch-Pvt.-Ltd.
+This document contains the analysis and proposed improvements developed using Value Stream Mapping for Quality (VmapQ). The report includes current state analysis, future state design, lean improvement proposals, KPI evaluation, layout optimization, 5S implementation, material flow improvements, and expected performance benefits.
